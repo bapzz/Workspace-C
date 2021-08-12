@@ -5,7 +5,6 @@
  *
  *    Description:  Find all the available armstrong numbers given in the limit.
  *
- *        Created:  Wednesday 20 September 2017 05:32:05  IST
  *         Author:  Biswajeet Sahoo <biswajeet21sahoo@gmail.com>
  *
  * =====================================================================================
